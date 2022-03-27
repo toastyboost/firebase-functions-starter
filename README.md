@@ -1,9 +1,14 @@
 # fireabase-starter
 
-## commands
+## Commands
 
-- `firebase init` - init firebase project
+- `npm run init` - init firebase project
+- `npm run serve` - serve functions for development 
 
-## todo
+## Features
+
+- Autocompile on save
+
+## ToDo
 
 - [ ] add .firebaserc
