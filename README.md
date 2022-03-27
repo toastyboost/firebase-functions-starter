@@ -1,7 +1,9 @@
 # fireabase-starter
 
-## start
+## commands
 
-- init firebase
+- `firebase init` - init firebase project
 
-add .firebaserc
+## todo
+
+- [ ] add .firebaserc
