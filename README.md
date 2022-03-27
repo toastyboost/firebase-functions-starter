@@ -1,6 +1,4 @@
-# fireabase-starter
-
-🐣 Fireabase functions starter with Typescript
+# fireabase-functions-starter
 
 ## Commands
 
