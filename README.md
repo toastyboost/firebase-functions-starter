@@ -1,5 +1,7 @@
 # fireabase-starter
 
+🐣 Fireabase functions starter with Typescript
+
 ## Commands
 
 - `npm run init` - init firebase project
